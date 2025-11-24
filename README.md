@@ -1,9 +1,9 @@
-📊 Sales Analysis Project
+📊** Sales Analysis Project**
 
 An end-to-end Sales Data Analysis project using Python, Pandas, NumPy, and Matplotlib.
 This project explores monthly sales trends, category performance, and product-level insights using a real-world style sales dataset.
 
-📁 Project Structure
+📁 **Project Structure**
 sales-analysis-project
 │
 ├── Sales_Analysis_Project.ipynb    # Main analysis notebook
@@ -11,35 +11,35 @@ sales-analysis-project
 ├── sales_data (1).csv              # Raw dataset
 └── README.md                       # Documentation
 
-🎯 Project Objective
+🎯** Project Objective**
 
 To clean, analyze, and visualize sales data to discover:
 
-Revenue trends
+{1} Revenue trends
 
-Top performing categories
+{2} Top performing categories
 
-Best-selling products
+{3} Best-selling products
 
-Monthly sales performance
+{4} Monthly sales performance
 
-Improvement areas for business growth
+{5} Improvement areas for business growth
 
-🛠 Tools & Technologies Used
+🛠** Tools & Technologies Used **
 
-Python
+1)Python
 
-Pandas
+2)Pandas
 
-NumPy
+3)NumPy
 
-Matplotlib
+4)Matplotlib
 
-Google Colab
+5)Google Colab
 
-GitHub
+6)GitHub
 
-🧹 Data Cleaning Steps
+🧹 ** Data Cleaning Steps **
 
 Performed in Google Colab:
 
@@ -49,7 +49,7 @@ Performed in Google Colab:
 ✔ Verified numerical columns (Sales, Quantity)
 ✔ Exported cleaned dataset → cleaned_sales_data.csv
 
-📈 Analysis Performed
+📈 ** Analysis Performed **
 
 📌 Monthly Sales Trend:
 Line chart showing rise & fall in monthly revenue.
@@ -66,38 +66,38 @@ Pie chart showing distribution of total units sold.
 📌 Automatic Insights Summary:
 The notebook prints insights like:
 
-Total revenue
+1.Total revenue
 
-Best-selling category
+2.Best-selling category
 
-Best-selling product
+3.Best-selling product
 
-Highest & lowest sales month
+4.Highest & lowest sales month
 
-🧠 Final Business Insights & Recommendations
+🧠 ** Final Business Insights & Recommendations **
 
 1️⃣ Increase stock for top-selling products
 2️⃣ Offer discounts during low-sales months
 3️⃣ Run category-based marketing campaigns
 4️⃣ Improve pricing strategy for low-demand items
 
-▶️ How to Run This Project
+▶️ ** How to Run This Project **
 
-Download the CSV files
+[1] Download the CSV files
 
-Open Google Colab
+[2] Open Google Colab
 
-Upload the datasets
+[3] Upload the datasets
 
-Open and run Sales_Analysis_Project.ipynb
+[4] Open and run Sales_Analysis_Project.ipynb
 
-View insights printed at the end
+[5] View insights printed at the end
 
-📬 Contact
+📬** Contact**
 
-Name: Vimala Upputuru
-GitHub: https://github.com/vimalau94
+**Name**: Vimala Upputuru
+**GitHub**: https://github.com/vimalau94
 
-LinkedIn: https://www.linkedin.com/in/vimala-upputuru-5b66aa336
+**LinkedIn**: https://www.linkedin.com/in/vimala-upputuru-5b66aa336
 
-Email: vimalau9413@gmail.com
+**Email**: vimalau9413@gmail.com
