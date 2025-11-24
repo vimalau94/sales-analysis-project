@@ -1,4 +1,4 @@
-📊** Sales Analysis Project**
+📊**Sales Analysis Project**
 
 An end-to-end Sales Data Analysis project using Python, Pandas, NumPy, and Matplotlib.
 This project explores monthly sales trends, category performance, and product-level insights using a real-world style sales dataset.
@@ -11,7 +11,7 @@ sales-analysis-project
 ├── sales_data (1).csv              # Raw dataset
 └── README.md                       # Documentation
 
-🎯** Project Objective**
+🎯**Project Objective**
 
 To clean, analyze, and visualize sales data to discover:
 
@@ -25,7 +25,7 @@ To clean, analyze, and visualize sales data to discover:
 
 {5} Improvement areas for business growth
 
-🛠** Tools & Technologies Used **
+🛠**Tools & Technologies Used**
 
 1)Python
 
@@ -39,7 +39,7 @@ To clean, analyze, and visualize sales data to discover:
 
 6)GitHub
 
-🧹 ** Data Cleaning Steps **
+🧹 **Data Cleaning Steps**
 
 Performed in Google Colab:
 
@@ -49,7 +49,7 @@ Performed in Google Colab:
 ✔ Verified numerical columns (Sales, Quantity)
 ✔ Exported cleaned dataset → cleaned_sales_data.csv
 
-📈 ** Analysis Performed **
+📈 **Analysis Performed**
 
 📌 Monthly Sales Trend:
 Line chart showing rise & fall in monthly revenue.
@@ -74,14 +74,14 @@ The notebook prints insights like:
 
 4.Highest & lowest sales month
 
-🧠 ** Final Business Insights & Recommendations **
+🧠 **Final Business Insights & Recommendations**
 
 1️⃣ Increase stock for top-selling products
 2️⃣ Offer discounts during low-sales months
 3️⃣ Run category-based marketing campaigns
 4️⃣ Improve pricing strategy for low-demand items
 
-▶️ ** How to Run This Project **
+▶️ **How to Run This Project**
 
 [1] Download the CSV files
 
@@ -93,7 +93,7 @@ The notebook prints insights like:
 
 [5] View insights printed at the end
 
-📬** Contact**
+📬**Contact**
 
 **Name**: Vimala Upputuru
 **GitHub**: https://github.com/vimalau94
